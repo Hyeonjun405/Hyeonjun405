@@ -2,7 +2,6 @@
  - Name : 유현준
  - E-mail : youhj14@naver.com
  - Blog: https://hyeonjun405.github.io/
- - Git : https://github.com/Hyeonjun405
 
 ## Skills Stack
  - Java, SpringFrameWork
