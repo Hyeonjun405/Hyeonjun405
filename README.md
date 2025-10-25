@@ -1,7 +1,7 @@
 ## Yoo HyeonJun
  - Name : 유현준
  - E-mail : youhj14@naver.com
- - Blog: https://hyeonjun405.github.io/
+ - Blog: https://hyeonjun405.github.io
 
 ## Skills Stack
  - Languages : #Java, #JavaScript
