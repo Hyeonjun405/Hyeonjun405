@@ -8,9 +8,10 @@
 &nbsp;저는 ‘이용자 경험 중심의 문제 해결’을 핵심 가치로 삼고 있으며, 기술이 현장의 효율성과 만족으로 이어지도록 고민하며 사용자 친화적이고 안정적인 서비스를 제공하는 개발자로 성장하고자 합니다.
 
 ## Skills Stack
- - Languages : #Java, #JavaScript
- - FrameWorks : #Spring Framework, #Spring Boot
- - Databases : #PostgreSQL, #Oracle SQL
- - Tools & IDEs : #IntelliJ IDEA, #Eclipse
- - Other : #REST API, #JSON, #AJAX, #Bootstrap
+  - Languages : #Java, #JavaScript
+  - FrameWorks : #Spring Framework, #Spring Boot
+  - Databases : #PostgreSQL, #Oracle SQL
+  - Cloud / DevOps : #AWS, #Docker, #Kubernetes
+  - Tools & IDEs : #IntelliJ IDEA, #Eclipse
+  - Other : #REST API, #JSON, #AJAX, #Bootstrap
 
